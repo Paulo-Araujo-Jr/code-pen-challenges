@@ -1,16 +1,16 @@
-# 🚀 Teste - Exemplo de Erro de CSS #
+# 🚀 Teste - Exemplo de Erro de JavaScript #
 
 ### 📌 Descrição
 
-O erro está na propriedade text-style: italic;, pois "text-style" não é uma propriedade válida no CSS.
-
-E a falta de '}' para fechar o seletor `.content p`
+Há um erro de digitação na variável resutl (deveria ser result), o que causa um erro no JavaScript.
 
 🛠️ Tecnologias
 
 HTML
 
 CSS
+
+JavaScript
 
 ### 📦 Como Rodar
 
@@ -20,8 +20,8 @@ git clone git@github.com:Paulo-Araujo-Jr/code-pen-challenges.git
 
 Acesse a branch do teste:
 
-git checkout teste-1
+git checkout teste-10
 
 ### 🎨 Desafio
 
-[(Desafio CODEPEN 1)](https://codepen.io/runmand/pen/WNWGWEz)
+[(Desafio CODEPEN 10)](https://codepen.io/runmand/pen/rNqJdwv)
