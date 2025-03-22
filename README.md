@@ -16,8 +16,8 @@ git clone git@github.com:Paulo-Araujo-Jr/code-pen-challenges.git
 
 Acesse a branch do teste:
 
-git checkout teste-1
+git checkout teste-3
 
 ### 🎨 Desafio
 
-[(Desafio CODEPEN 1)](https://codepen.io/runmand/pen/LYvRvLV)
+[(Desafio CODEPEN 3)](https://codepen.io/runmand/pen/LYvRvLV)
