@@ -1,16 +1,12 @@
-# 🚀 Teste - Exemplo de Erro de CSS #
+# 🚀 Teste - Exemplo de Erro de HTML #
 
 ### 📌 Descrição
 
-O erro está na propriedade text-style: italic;, pois "text-style" não é uma propriedade válida no CSS.
-
-E a falta de '}' para fechar o seletor `.content p`
+Corrigi a tag <asside> para <aside>
 
 🛠️ Tecnologias
 
 HTML
-
-CSS
 
 ### 📦 Como Rodar
 
@@ -24,4 +20,4 @@ git checkout teste-1
 
 ### 🎨 Desafio
 
-[(Desafio CODEPEN 1)](https://codepen.io/runmand/pen/WNWGWEz)
+[(Desafio CODEPEN 4)](https://codepen.io/runmand/pen/dyLpLWY)
