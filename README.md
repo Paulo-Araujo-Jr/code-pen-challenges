@@ -18,7 +18,7 @@ git clone git@github.com:Paulo-Araujo-Jr/code-pen-challenges.git
 
 Acesse a branch do teste:
 
-git checkout teste-1
+git checkout teste-2
 
 ### 🎨 Desafio
 
