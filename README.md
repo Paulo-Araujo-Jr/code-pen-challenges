@@ -2,9 +2,7 @@
 
 ### 📌 Descrição
 
-O erro está na propriedade text-style: italic;, pois "text-style" não é uma propriedade válida no CSS.
-
-E a falta de '}' para fechar o seletor `.content p`
+Corrigi o conflito de cores no CSS, garantindo que o texto dentro de .content seja branco e os parágrafos (< p >) sejam vermelhos.
 
 🛠️ Tecnologias
 
@@ -24,4 +22,4 @@ git checkout teste-1
 
 ### 🎨 Desafio
 
-[(Desafio CODEPEN 1)](https://codepen.io/runmand/pen/WNWGWEz)
+[(Desafio CODEPEN 2)](https://codepen.io/runmand/pen/MWRjRoz)
