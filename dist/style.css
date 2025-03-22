@@ -1,0 +1,11 @@
+/* CSS com erro */
+.content {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+}
+
+.content p {
+  font-size: 16px;
+  color: red;
+}
